@@ -1,0 +1,39 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\Team Projec\bin\Debug\Team Projec.exe.config
+C:\Users\Administrator\AppData\Local\Temporary Projects\Team Projec\bin\Debug\Team Projec.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Team Projec\bin\Debug\Team Projec.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\Team Projec\obj\Debug\Team Projec.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Team Projec\obj\Debug\Team_Projec.Main_form.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Team Projec\obj\Debug\Team_Projec.Properties.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Team Projec\obj\Debug\Team Projec.csproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Team Projec\obj\Debug\Team Projec.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Team Projec\obj\Debug\Team Projec.pdb
+C:\Users\Administrator\Desktop\바탕화면\팀 프로젝트\Team Projec\Team Projec\bin\Debug\Team Projec.exe.config
+C:\Users\Administrator\Desktop\바탕화면\팀 프로젝트\Team Projec\Team Projec\obj\Debug\Team Projec.exe
+C:\Users\Administrator\Desktop\바탕화면\팀 프로젝트\Team Projec\Team Projec\obj\Debug\Team Projec.pdb
+C:\Users\Administrator\Desktop\바탕화면\팀 프로젝트\Team Projec\Team Projec\bin\Debug\Team Projec.exe
+C:\Users\Administrator\Desktop\바탕화면\팀 프로젝트\Team Projec\Team Projec\bin\Debug\Team Projec.pdb
+C:\Users\Administrator\Desktop\바탕화면\팀 프로젝트\Team Projec\Team Projec\obj\Debug\Team_Projec.Properties.Resources.resources
+C:\Users\Administrator\Desktop\바탕화면\팀 프로젝트\Team Projec\Team Projec\obj\Debug\Team Projec.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\바탕화면\팀 프로젝트\Team Projec\Team Projec\bin\Debug\Interop.SHDocVw.dll
+C:\Users\Administrator\Desktop\바탕화면\팀 프로젝트\Team Projec\Team Projec\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\Administrator\Desktop\바탕화면\팀 프로젝트\Team Projec\Team Projec\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Administrator\Desktop\바탕화면\팀 프로젝트\Team Projec\Team Projec\obj\Debug\AxInterop.SHDocVw.dll
+C:\Users\Administrator\Desktop\바탕화면\팀 프로젝트\Team Projec\Team Projec\obj\Debug\Team Projec.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\바탕화면\팀 프로젝트\Team Projec\Team Projec\obj\Debug\Team_Projec.Main_form.resources
+C:\Users\Administrator\Desktop\바탕화면\팀 프로젝트\Team Projec\Team Projec\obj\Debug\Team_Projec.Solve_form.resources
+C:\Users\Administrator\Desktop\바탕화면\팀 프로젝트\Team Projec\Team Projec\obj\Debug\Team Projec.csprojResolveAssemblyReference.cache
+D:\program\Cube Solver\Team Projec\Team Projec\bin\Debug\Team Projec.exe.config
+D:\program\Cube Solver\Team Projec\Team Projec\obj\Debug\Interop.SHDocVw.dll
+D:\program\Cube Solver\Team Projec\Team Projec\obj\Debug\AxInterop.SHDocVw.dll
+D:\program\Cube Solver\Team Projec\Team Projec\obj\Debug\Team Projec.csproj.ResolveComReference.cache
+D:\program\Cube Solver\Team Projec\Team Projec\obj\Debug\Team Projec.exe
+D:\program\Cube Solver\Team Projec\Team Projec\obj\Debug\Team Projec.pdb
+D:\program\Cube Solver\Team Projec\Team Projec\bin\Debug\Team Projec.exe
+D:\program\Cube Solver\Team Projec\Team Projec\bin\Debug\Team Projec.pdb
+D:\program\Cube Solver\Team Projec\Team Projec\bin\Debug\Interop.SHDocVw.dll
+D:\program\Cube Solver\Team Projec\Team Projec\bin\Debug\AxInterop.SHDocVw.dll
+D:\program\Cube Solver\Team Projec\Team Projec\obj\Debug\Team Projec.csprojResolveAssemblyReference.cache
+D:\program\Cube Solver\Team Projec\Team Projec\obj\Debug\Team_Projec.Main_form.resources
+D:\program\Cube Solver\Team Projec\Team Projec\obj\Debug\Team_Projec.Solve_form.resources
+D:\program\Cube Solver\Team Projec\Team Projec\obj\Debug\Team_Projec.Properties.Resources.resources
+D:\program\Cube Solver\Team Projec\Team Projec\obj\Debug\Team Projec.csproj.GenerateResource.Cache
