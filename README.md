@@ -22,7 +22,7 @@
 
 ---------------------------
 ### 5. Demo
-- [Download](/Team Projec/Team Projec/bin/Debug/Team Projec.exe)
+- [Download](https://github.com/jongwonleee/cube_solver/blob/master/Team%20Projec/Team%20Projec/bin/Debug/Team%20Projec.exe)
 
 ---------------------------
 ### 6. Contacts
