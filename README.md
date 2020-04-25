@@ -17,7 +17,8 @@
 
 ---
 ### 4. Logo
-![Logo](/Team Projec/Team Projec/Resources/TItle.png)
+- ![Logo](/Team Projec/Team Projec/Resources/TItle.png)
+![Logo](/AndroidClient/PCZzim/res/drawable-xxhdpi/ic_launcher.png)
 
 ---------------------------
 ### 5. Demo
