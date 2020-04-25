@@ -17,7 +17,8 @@
 
 ---
 ### 4. Logo
-- ![Logo](cube_solver/Team Projec/Team Projec/Resources/TItle.png)
+
+![Logo](https://github.com/jongwonleee/cube_solver/blob/master/Team%20Projec/Team%20Projec/Resources/TItle.png)
 
 ---------------------------
 ### 5. Demo
