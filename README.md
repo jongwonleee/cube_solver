@@ -17,11 +17,11 @@
 
 ---
 ### 4. Logo
-![Logo](cube_solver/Team Projec/Team Projec/Resources/TItle.png)
+![Logo](Team Projec/Team Projec/Resources/TItle.png)
 
 ---------------------------
 ### 5. Demo
-- [Download](cube_solver/Team Projec/Team Projec/bin/Debug/Team Projec.exe)
+- [Download](Team Projec/Team Projec/bin/Debug/Team Projec.exe)
 
 ---------------------------
 ### 6. Contacts
